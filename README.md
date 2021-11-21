@@ -30,6 +30,7 @@ class Simone:
 
 * [`PlanetDance`](https://github.com/SimoneMattioli98/PlanetDance) : Front-end react application which draws patterns made by planets while they move around the Sun.
 
+* [`SoccerRolesClassifiers`](https://github.com/SimoneMattioli98/SoccerRolesClassifiers) : A machine learning project that study the best approaches to classify the role of a soccer player by using his phisical and technical features.
 
 
 ---
