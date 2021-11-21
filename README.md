@@ -33,6 +33,8 @@ class Simone:
 * [`SoccerRolesClassifiers`](https://github.com/SimoneMattioli98/SoccerRolesClassifiers) : A machine learning project that study the best approaches to classify the role of a soccer player by using his phisical and technical features.
 
 * [`Q-Learning`](https://github.com/SimoneMattioli98/Q-Learning) : Research project about Transfer Learning, expecially Q-Learning, using the cartpole task.
+
+
 ---
 
   
