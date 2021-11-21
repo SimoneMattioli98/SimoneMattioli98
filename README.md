@@ -26,13 +26,13 @@ class Simone:
 
 * [`ReceiptTextRecognizer`](https://github.com/SimoneMattioli98/ReceiptTextRecognizer) : Android application to detect and extract textual information from pictures of receipts;
 
-* [`Speech2Text`](https://github.com/SimoneMattioli98/Speech2Text) : Finetuned and evaluated transformer neural networks to improve speech transcriptions of online webinars. 
+* [`Speech2Text`](https://github.com/SimoneMattioli98/Speech2Text) : Finetuned and evaluated transformer neural networks to improve speech transcriptions of online webinars;
 
-* [`PlanetDance`](https://github.com/SimoneMattioli98/PlanetDance) : Front-end react application which draws patterns made by planets while they move around the Sun.
+* [`PlanetDance`](https://github.com/SimoneMattioli98/PlanetDance) : Front-end react application which draws patterns made by planets while they move around the Sun;
 
-* [`SoccerRolesClassifiers`](https://github.com/SimoneMattioli98/SoccerRolesClassifiers) : A machine learning project that study the best approaches to classify the role of a soccer player by using his phisical and technical features.
+* [`SoccerRolesClassifiers`](https://github.com/SimoneMattioli98/SoccerRolesClassifiers) : A machine learning project that study the best approaches to classify the role of a soccer player by using his phisical and technical features;
 
-* [`Q-Learning`](https://github.com/SimoneMattioli98/Q-Learning) : Research project about Transfer Learning, expecially Q-Learning, using the cartpole task.
+* [`Q-Learning`](https://github.com/SimoneMattioli98/Q-Learning) : Research project about Transfer Learning, expecially Q-Learning, using the cartpole task;
 
 
 ---
