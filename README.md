@@ -40,6 +40,7 @@ class Simone:
   
 <br />
 <p align="center" style="font-weight:bold"> 🎓 <b> Academic achievements </b> <p>
+  
  * Master's Degree grade: 106/110.
  * Bachelor's Degree grade: 101/110.
  * Mentee at Leed The Future leading mentorship organization for students in STEM, that guides me to achieve my goals and contribute to the community by giving me one-on-one guidance from high-impact mentors;
